@@ -1,6 +1,6 @@
 <?php
 
-namespace Pharaonic\Laravel\Users;
+namespace Pharaonic\Laravel\Agents;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
