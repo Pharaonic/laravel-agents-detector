@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen&style=flat-square" alt="License">
   <a href="https://liberapay.com/Pharaonic" target="_blank"><img src="https://img.shields.io/liberapay/receives/Pharaonic?color=gold&label=Support&style=flat-square" alt="Support"></a>
   <br>
-  <a href="https://packagist.org/packages/Pharaonic/laravel-agents" target="_blank"><img src="https://img.shields.io/static/v1?label=Packagist&message=pharaonic/laravel-agents&color=blue&logo=packagist&logoColor=white" alt="Source"></a>
-  <a href="https://packagist.org/packages/pharaonic/laravel-agents" target="_blank"><img src="https://poser.pugx.org/pharaonic/laravel-agents/v" alt="Packagist Version"></a>
-  <a href="https://packagist.org/packages/pharaonic/laravel-agents" target="_blank"><img src="https://poser.pugx.org/pharaonic/laravel-agents/downloads" alt="Packagist Downloads"></a>
+  <a href="https://packagist.org/packages/Pharaonic/laravel-agents-detector" target="_blank"><img src="https://img.shields.io/static/v1?label=Packagist&message=pharaonic/laravel-agents-detector&color=blue&logo=packagist&logoColor=white" alt="Source"></a>
+  <a href="https://packagist.org/packages/pharaonic/laravel-agents-detector" target="_blank"><img src="https://poser.pugx.org/pharaonic/laravel-agents-detector/v" alt="Packagist Version"></a>
+  <a href="https://packagist.org/packages/pharaonic/laravel-agents-detector" target="_blank"><img src="https://poser.pugx.org/pharaonic/laravel-agents-detector/downloads" alt="Packagist Downloads"></a>
 </p>
 
 <h3 align="center">Laravel Agents provides an easy way to detect<br>Devices, Operation Systems and Browsers.</h3>
