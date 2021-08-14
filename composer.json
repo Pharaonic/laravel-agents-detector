@@ -1,0 +1,46 @@
+{
+    "name": "pharaonic/laravel-agents-detector",
+    "description": "Laravel Agents (Devices, Operation Systems, Browsers, Bots).",
+    "keywords": [
+        "laravel agents",
+        "laravel devices",
+        "laravel operation system",
+        "laravel os",
+        "laravel browsers",
+        "laravel bots",
+        "laravel",
+        "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moamen Eltouny (Raggi)",
+            "email": "raggi@raggitech.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "laravel/framework": ">=6.0",
+        "matomo/device-detector": ">=4.3.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Pharaonic\\Laravel\\Agents\\AgentsServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Pharaonic\\Laravel\\Agents\\": "src"
+        },
+        "files": [
+            "src/Helpers/Agent.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
