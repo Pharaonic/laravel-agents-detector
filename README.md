@@ -11,7 +11,8 @@
   <a href="https://packagist.org/packages/pharaonic/laravel-agents-detector" target="_blank"><img src="https://poser.pugx.org/pharaonic/laravel-agents-detector/downloads" alt="Packagist Downloads"></a>
 </p>
 
-<h3 align="center">Laravel Agents provides an easy way to detect<br>Devices, Operation Systems and Browsers.</h3>
+<h3 align="center">Laravel Agents Detector provides an easy way to detect</h3>
+<h4 align="center">Devices, Operation Systems and Browsers.</h4>
 <br>
 
 ## Documentation
