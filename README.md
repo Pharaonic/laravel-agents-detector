@@ -16,7 +16,7 @@
 
 ## Documentation
 
-You can find the detailed documentation here in [Laravel Agents Documentation](https://pharaonic.io/package/2-laravel/24-agents).
+You can find the detailed documentation here in [Laravel Agents Detector Documentation](https://pharaonic.io/package/2-laravel/24-agents-detector).
 
 ## Contributing
 
