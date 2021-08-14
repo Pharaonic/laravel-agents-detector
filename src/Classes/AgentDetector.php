@@ -6,7 +6,7 @@ use DeviceDetector\DeviceDetector;
 use DeviceDetector\Parser\Client\Browser as ClientBrowser;
 use DeviceDetector\Parser\Device\AbstractDeviceParser;
 use DeviceDetector\Parser\OperatingSystem;
-use Pharaonic\Laravel\Agents\Models\Agents\{
+use Pharaonic\Laravel\Agents\Models\{
     Agent,
     Bot,
     Browser,

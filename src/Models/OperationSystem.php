@@ -1,26 +1,26 @@
 <?php
 
-namespace Pharaonic\Laravel\Agents\Models\Agents;
+namespace Pharaonic\Laravel\Agents\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
 /**
  * @property integer $id
  * @property string $name
- * @property string $category
- * @property string $producer
+ * @property string $platform
+ * @property string $family
  * @property Agent[] $agents
  * 
  * @author Moamen Eltouny (Raggi) <raggi@raggitech.com>
  */
-class Bot extends Model
+class OperationSystem extends Model
 {
     /**
      * The attributes that are mass assignable.
      * 
      * @var array
      */
-    protected $fillable = ['name', 'category', 'producer'];
+    protected $fillable = ['name', 'platform', 'family'];
 
     /**
      * Indicates if the model should be timestamped.
