@@ -33,7 +33,6 @@ class AgentsServiceProvider extends ServiceProvider
             __DIR__ . '/database/migrations/2021_02_01_000021_create_browsers_table.php'                => database_path('migrations/2021_02_01_000021_create_browsers_table.php'),
             __DIR__ . '/database/migrations/2021_02_01_000022_create_bots_table.php'                    => database_path('migrations/2021_02_01_000022_create_bots_table.php'),
             __DIR__ . '/database/migrations/2021_02_01_000023_create_agents_table.php'                  => database_path('migrations/2021_02_01_000023_create_agents_table.php'),
-            __DIR__ . '/database/migrations/2021_02_01_000024_create_user_agents_table.php'             => database_path('migrations/2021_02_01_000024_create_user_agents_table.php'),
         ], ['pharaonic', 'laravel-agents']);
 
 
