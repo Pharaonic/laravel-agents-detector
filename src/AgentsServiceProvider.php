@@ -15,7 +15,7 @@ class AgentsServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        // Publish your migrations as you want
+        $this->loadMigrationsFrom(__DIR__ . '/database/migrations');
     }
 
     /**
